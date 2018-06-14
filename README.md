@@ -39,5 +39,3 @@ function DoubanApi() {
 ### 感谢
 
 感谢[Sébastien Saunier](https://raw.github.com/ssaunier/ssaunier.github.io/)和[marcgg](http://marcgg.com/)，如果你觉得本主题有改进的地方，欢迎开[issues](https://github.com/willard-yuan/willard-yuan.github.io/issues)或者提交你的PR。
-=======
-# sunansheng.github.io
