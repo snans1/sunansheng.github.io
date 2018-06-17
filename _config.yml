@@ -5,7 +5,7 @@ description:   A Oracle EBS Technology
 url: http://blog.sunansheng.com
 
 # 自定义post url
-permalink: /blog/:title.html
+permalink: /:title.html
 timezone: Asia/Chongqing
 
 # Overriden by GitHub Pages: https://help.github.com/articles/using-jekyll-with-pages#configuring-jekyll
